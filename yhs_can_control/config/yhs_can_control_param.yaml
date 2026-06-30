@@ -1,0 +1,6 @@
+#底盘控制节点参数
+yhs_can_control:
+  odom_frame: odom
+  base_link_frame: base_link
+  tfUsed: false
+  wheel_base: 1.05
